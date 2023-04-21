@@ -48,7 +48,7 @@ table {
 }
 
 
-body {
+html {
     background-color: #020659;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -69,4 +69,6 @@ footer p {
     font-size: .75em;
 }
 
-
+div {
+	color: 590242;
+}
